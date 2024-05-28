@@ -1,0 +1,17 @@
+C:\Users\whclo\source\repos\Coursework\Application.BisleriumBlog\bin\Debug\net8.0\Application.BisleriumBlog.deps.json
+C:\Users\whclo\source\repos\Coursework\Application.BisleriumBlog\bin\Debug\net8.0\Application.BisleriumBlog.dll
+C:\Users\whclo\source\repos\Coursework\Application.BisleriumBlog\bin\Debug\net8.0\Application.BisleriumBlog.pdb
+C:\Users\whclo\source\repos\Coursework\Application.BisleriumBlog\bin\Debug\net8.0\Domain.BisleriumBlog.dll
+C:\Users\whclo\source\repos\Coursework\Application.BisleriumBlog\bin\Debug\net8.0\Domain.BisleriumBlog.pdb
+C:\Users\whclo\source\repos\Coursework\Application.BisleriumBlog\obj\Debug\net8.0\Application.BisleriumBlog.csproj.AssemblyReference.cache
+C:\Users\whclo\source\repos\Coursework\Application.BisleriumBlog\obj\Debug\net8.0\Application.BisleriumBlog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\whclo\source\repos\Coursework\Application.BisleriumBlog\obj\Debug\net8.0\Application.BisleriumBlog.AssemblyInfoInputs.cache
+C:\Users\whclo\source\repos\Coursework\Application.BisleriumBlog\obj\Debug\net8.0\Application.BisleriumBlog.AssemblyInfo.cs
+C:\Users\whclo\source\repos\Coursework\Application.BisleriumBlog\obj\Debug\net8.0\Application.BisleriumBlog.csproj.CoreCompileInputs.cache
+C:\Users\whclo\source\repos\Coursework\Application.BisleriumBlog\obj\Debug\net8.0\Applicat.285F3A81.Up2Date
+C:\Users\whclo\source\repos\Coursework\Application.BisleriumBlog\obj\Debug\net8.0\Application.BisleriumBlog.dll
+C:\Users\whclo\source\repos\Coursework\Application.BisleriumBlog\obj\Debug\net8.0\refint\Application.BisleriumBlog.dll
+C:\Users\whclo\source\repos\Coursework\Application.BisleriumBlog\obj\Debug\net8.0\Application.BisleriumBlog.pdb
+C:\Users\whclo\source\repos\Coursework\Application.BisleriumBlog\obj\Debug\net8.0\ref\Application.BisleriumBlog.dll
+C:\Users\whclo\source\repos\Coursework\Application.BisleriumBlog\bin\Debug\net8.0\Application.BisleriumBlog.runtimeconfig.json
+C:\Users\whclo\source\repos\Coursework\Application.BisleriumBlog\obj\Debug\net8.0\Application.BisleriumBlog.genruntimeconfig.cache

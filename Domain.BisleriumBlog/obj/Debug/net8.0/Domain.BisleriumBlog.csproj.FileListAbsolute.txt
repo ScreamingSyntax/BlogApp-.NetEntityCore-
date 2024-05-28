@@ -1,0 +1,14 @@
+C:\Users\whclo\source\repos\Coursework\Domain.BisleriumBlog\bin\Debug\net8.0\Domain.BisleriumBlog.deps.json
+C:\Users\whclo\source\repos\Coursework\Domain.BisleriumBlog\bin\Debug\net8.0\Domain.BisleriumBlog.dll
+C:\Users\whclo\source\repos\Coursework\Domain.BisleriumBlog\bin\Debug\net8.0\Domain.BisleriumBlog.pdb
+C:\Users\whclo\source\repos\Coursework\Domain.BisleriumBlog\obj\Debug\net8.0\Domain.BisleriumBlog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\whclo\source\repos\Coursework\Domain.BisleriumBlog\obj\Debug\net8.0\Domain.BisleriumBlog.AssemblyInfoInputs.cache
+C:\Users\whclo\source\repos\Coursework\Domain.BisleriumBlog\obj\Debug\net8.0\Domain.BisleriumBlog.AssemblyInfo.cs
+C:\Users\whclo\source\repos\Coursework\Domain.BisleriumBlog\obj\Debug\net8.0\Domain.BisleriumBlog.csproj.CoreCompileInputs.cache
+C:\Users\whclo\source\repos\Coursework\Domain.BisleriumBlog\obj\Debug\net8.0\Domain.BisleriumBlog.dll
+C:\Users\whclo\source\repos\Coursework\Domain.BisleriumBlog\obj\Debug\net8.0\refint\Domain.BisleriumBlog.dll
+C:\Users\whclo\source\repos\Coursework\Domain.BisleriumBlog\obj\Debug\net8.0\Domain.BisleriumBlog.pdb
+C:\Users\whclo\source\repos\Coursework\Domain.BisleriumBlog\obj\Debug\net8.0\ref\Domain.BisleriumBlog.dll
+C:\Users\whclo\source\repos\Coursework\Domain.BisleriumBlog\obj\Debug\net8.0\Domain.BisleriumBlog.csproj.AssemblyReference.cache
+C:\Users\whclo\source\repos\Coursework\Domain.BisleriumBlog\bin\Debug\net8.0\Domain.BisleriumBlog.runtimeconfig.json
+C:\Users\whclo\source\repos\Coursework\Domain.BisleriumBlog\obj\Debug\net8.0\Domain.BisleriumBlog.genruntimeconfig.cache
